@@ -1,10 +1,10 @@
-# BSVDataKit
+# AggreEvl
 Data post-processing and analysis kit for Ballast Scanning Vehicle (BSV)
 
 #### Directory Setting
 ```
 ROOT/PATH
-    --- BSVDataKit
+    --- AggreEvl
     --- swin
 ```
 
