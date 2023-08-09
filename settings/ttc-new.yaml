@@ -1,0 +1,12 @@
+brightness: 1.85
+colorTemperature: 7000
+contrast: 1.22
+displayRange:
+  end: 135
+  start: 68
+horizontalCrop:
+  left: 1172
+  right: 1178
+horizontalFlip: false
+initialScaleY: 0.8500000000000001
+workspace: /home/kelin/Documents/BSVDataKit/data/line/4

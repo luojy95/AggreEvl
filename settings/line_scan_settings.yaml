@@ -1,0 +1,12 @@
+brightness: 1.025
+colorTemperature: 9000
+contrast: 1.1600000000000001
+displayRange:
+  end: 1769
+  start: 171
+horizontalCrop:
+  left: 0
+  right: 0
+horizontalFlip: false
+initialScaleY: 1.3
+workspace: /home/kelin/Documents/BSVDataKit/data/line/MP1.75_Surface_Linescan

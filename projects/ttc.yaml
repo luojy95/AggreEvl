@@ -1,0 +1,42 @@
+calibration_ball:
+  h: 25.414280259641146
+  w: 41.053837342497104
+  x: 504.3757159221076
+  y: 1258.9843451699119
+calibration_ball_diameter_mm: 40
+colormap_end: 120.0
+colormap_start: 0.0
+gocator_flipped: false
+gocator_folder: /home/kelin/Documents/BSVDataKit/data/gocator/xlsx/4
+keypointsbg:
+  0:
+    x: 295.19663993890794
+    y: 836.7163039327986
+  1:
+    x: 527.8350515463917
+    y: 1237.4799541809848
+  2:
+    x: 523.9251622756776
+    y: 1288.308514700267
+  3:
+    x: 308.88125238640697
+    y: 1624.558991981672
+  4:
+    x: 523.9251622756776
+    y: 1233.570064910271
+keypointsfg:
+  0:
+    x: 301.06147384497893
+    y: 347.9801450935471
+  2:
+    x: 520.0152730049637
+    y: 676.4108438335242
+  3:
+    x: 303.016418480336
+    y: 957.922871324933
+  4:
+    x: 515.9602102087453
+    y: 637.2885265230881
+linescan_flipped: true
+linescan_folder: /home/kelin/Documents/BSVDataKit/data/line/4
+linescan_settings_path: /home/kelin/Documents/BSVDataKit/settings/ttc.yaml
